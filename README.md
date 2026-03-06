@@ -2,7 +2,7 @@
 A hardware implementation of the classic Ping Pong game on an FPGA board using Vivado.
 
 ## Overview
-This project implements a classic **Ping Pong game** on the **FPGA development board Basys 3 Master (Artix-7)** using **Vivado**. The game is written in **Verilog/VHDL** and runs entirely in hardware. The output is displayed on a **7-segment display**, and the paddles are controlled using buttons on the FPGA board.
+This project implements a classic **Ping Pong game** on the **FPGA development board Basys 3 Master (Artix-7)** using **Vivado**. The game is written in **Verilog/VHDL** and runs entirely in hardware. The output is displayed on a **7-segment display** and the paddles are controlled using buttons on the FPGA board.
 
 The project demonstrates how **digital logic, timing control, and hardware description languages** can be used to create a real-time interactive game system on an FPGA.
 
